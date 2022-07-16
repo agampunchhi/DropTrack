@@ -1,4 +1,4 @@
-![Header](https://i.imgur.com/vh2Cjlq.png|width=50px "Header")
+<img src="https://i.imgur.com/vh2Cjlq.png" width=200 align=center>
 
 # DropTrack Discord Bot
  DropTrack tracks prices from various ecommerce sites and notifies the user of any price drops on items they want to track.
