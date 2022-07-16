@@ -1,0 +1,9 @@
+beautifulsoup4
+discord.py==1.7.2
+requests
+psycopg2-binary
+cairosvg
+imgkit
+pytz
+selenium
+
