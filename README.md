@@ -11,9 +11,9 @@
 - Install the required packages for Python3 using this command in terminal - `pip3 install -r requirements.txt`
 
 # Set up the environment and add the following environment variables -
-`DATABASE_URL`: The URL for your PostgreSQL Database.
-`BOT_TOKEN`: Token for your discord bot application obtained from Discord Developer Portal.
-`OWNER_ID`: The Discord User ID for the bot owner.
+- The URL for your PostgreSQL Database - `DATABASE_URL`
+- Token for your discord bot application obtained from Discord Developer Portal - `BOT_TOKEN`
+- The Discord User ID for the bot owner - `OWNER_ID`
 
 Run the bot using the following command - `python3 main.py`
 
